@@ -19,7 +19,7 @@ def get_rewards (url):
     # Encuentra todas las tablas en la página
     all_tables = soup_url.find_all("table")
     
-    # Asigna la sexta tabla (la que contiene la info de las películas) a la variable 'table'
+    # Asigna la sexta tabla (la que contiene la info de los premios) a la variable 'table'
     table = all_tables[2]
     
     # Encuentra todas las filas en la tabla
