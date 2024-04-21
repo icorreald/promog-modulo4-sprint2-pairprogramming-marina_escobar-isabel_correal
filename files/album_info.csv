@@ -1,11 +1,11 @@
-,album,sales,score_critic,score_public
-0,Taylor Swift,"US: 5,871,000[B]",67,8.4
-1,Fearless,"US: 7,286,000[D]",73,8.4
-2,Speak Now,"US: 4,817,000[B]",77,8.6
-3,Red,"US: 4,582,000[B]",77,8.6
-4,1989,"US: 6,472,000[B]",76,8.3
-5,Reputation,"US: 2,478,000[B]",71,8.3
-6,Lover,"US: 2,000,000[D]",79,8.4
-7,Folklore,"US: 2,289,000[B]",88,9.0
-8,Evermore,"US: 913,000[H]",85,8.9
-9,Midnights,"US: 2,814,000[B]",85,8.3
+album,sales (US),score_critic,score_public,tour_revenue ($),tour_id
+Taylor Swift,5871000,67,8.4,No Tour,No Tour
+Fearless,7286000,73,8.4,66246496,ts02
+Speak Now,4817000,77,8.6,123678576,ts03
+Red,4582000,77,8.6,150184971,ts04
+1989,6472000,76,8.3,250733097,ts05
+Reputation,2478000,71,8.3,345675146,ts06
+Lover,2000000,79,8.4,No Tour,No Tour
+Folklore,2289000,88,9.0,No Tour,No Tour
+Evermore,913000,85,8.9,No Tour,No Tour
+Midnights,2814000,85,8.3,No Tour,No Tour
