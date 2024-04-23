@@ -1,446 +1,446 @@
-city,country,attendance,revenue,tour,tour_id
-Evansville,United States,"7,463 / 7,463","$360,617",fearless,ts02
-Jonesboro,United States,"7,822 / 7,822","$340,328",fearless,ts02
-St. Louis,United States,"13,764 / 13,764","$650,420",fearless,ts02
-Alexandria,United States,Â,Â,fearless,ts02
-North Charleston,United States,"8,751 / 8,751","$398,154",fearless,ts02
-Jacksonville,United States,"11,072 / 11,072","$507,012",fearless,ts02
-Biloxi,United States,"9,436 / 9,436","$437,313",fearless,ts02
-London,England,"6,789 / 6,789","$401,328",fearless,ts02
-London,England,"6,789 / 6,789","$401,328",fearless,ts02
-Spokane,United States,"10,798 / 10,798","$482,146",fearless,ts02
-Seattle,United States,"12,061 / 12,061","$528,637",fearless,ts02
-Portland,United States,"13,226 / 13,226","$613,284",fearless,ts02
-Nampa,United States,"8,970 / 8,970","$413,622",fearless,ts02
-Glendale,United States,"13,052 / 13,052","$647,923",fearless,ts02
-Los Angeles,United States,"13,648 / 13,648","$720,940",fearless,ts02
-Paradise,United States,"8,311 / 8,311","$551,051",fearless,ts02
-San Diego,United States,"10,174 / 10,174","$502,689",fearless,ts02
-Salt Lake City,United States,"13,042 / 13,042","$555,207",fearless,ts02
-New Brockton,United States,Â,Â,fearless,ts02
-Columbia,United States,"17,619 / 17,619","$608,438",fearless,ts02
-Greensboro,United States,"14,641 / 14,641","$690,959",fearless,ts02
-Oshkosh,United States,Â,Â,fearless,ts02
-Cadott,United States,Â,Â,fearless,ts02
-Calgary,Canada,Â,Â,fearless,ts02
-Edmonton,Canada,"33,910 / 44,500","$2,540,906",fearless,ts02
-Craven,Canada,Â,Â,fearless,ts02
-Winnipeg,Canada,"11,369 / 11,369","$512,487",fearless,ts02
-Twin Lakes,United States,Â,Â,fearless,ts02
-Columbus,United States,Â,Â,fearless,ts02
-Charleston,United States,Â,Â,fearless,ts02
-Cheyenne,United States,Â,Â,fearless,ts02
-Rapid City,United States,Â,Â,fearless,ts02
-Minot,United States,Â,Â,fearless,ts02
-Philadelphia,United States,Â,Â,fearless,ts02
-Detroit Lakes,United States,Â,Â,fearless,ts02
-Omaha,United States,Â,Â,fearless,ts02
-Chelmsford,England,Â,Â,fearless,ts02
-Weston-under-Lizard,England,Â,Â,fearless,ts02
-New York City,United States,"13,597 / 13,597","$976,062",fearless,ts02
-Montville,United States,"7,507 / 7,507","$296,306",fearless,ts02
-University Park,United States,Â,Â,fearless,ts02
-Louisville,United States,Â,Â,fearless,ts02
-Duluth,United States,Â,Â,fearless,ts02
-Greenville,United States,Â,Â,fearless,ts02
-Charlotte,United States,Â,Â,fearless,ts02
-Lafayette,United States,Â,Â,fearless,ts02
-Bossier City,United States,Â,Â,fearless,ts02
-Birmingham,United States,Â,Â,fearless,ts02
-Nashville,United States,"14,269 / 14,269","$642,387",fearless,ts02
-Dallas,United States,"13,794 / 13,794","$628,062",fearless,ts02
-North Little Rock,United States,"13,978 / 13,978","$654,089",fearless,ts02
-Tulsa,United States,Â,Â,fearless,ts02
-Pittsburgh,United States,Â,Â,fearless,ts02
-Grand Rapids,United States,Â,Â,fearless,ts02
-Cleveland,United States,"15,524 / 15,524","$743,492",fearless,ts02
-Indianapolis,United States,"13,373 / 13,373","$634,876",fearless,ts02
-Rosemont,United States,"26,265 / 26,265","$1,150,896",fearless,ts02
-Rosemont,United States,"26,265 / 26,265","$1,150,896",fearless,ts02
-Minneapolis,United States,"13,563 / 13,563","$623,975",fearless,ts02
-London,England,Â,Â,fearless,ts02
-Manchester,England,Â,Â,fearless,ts02
-Brisbane,Australia,"11,334 / 11,334","$956,505",fearless,ts02
-Sydney,Australia,"27,030 / 27,030","$2,030,640",fearless,ts02
-Sydney,Australia,"27,030 / 27,030","$2,030,640",fearless,ts02
-Newcastle,Australia,"7,180 / 7,180","$555,396",fearless,ts02
-Melbourne,Australia,"23,493 / 23,493","$1,627,510",fearless,ts02
-Melbourne,Australia,"23,493 / 23,493","$1,627,510",fearless,ts02
-Adelaide,Australia,"9,066 / 9,066","$585,352",fearless,ts02
-Tokyo,Japan,Â,Â,fearless,ts02
-Tampa,United States,"13,861 / 13,861","$793,049",fearless,ts02
-Orlando,United States,"11,101 / 11,101","$598,581",fearless,ts02
-Sunrise,United States,"13,453 / 13,453","$777,442",fearless,ts02
-Austin,United States,"11,928 / 11,928","$642,705",fearless,ts02
-Dallas,United States,"14,022 / 14,022","$742,954",fearless,ts02
-Corpus Christi,United States,"8,423 / 8,423","$501,169",fearless,ts02
-Philadelphia,United States,"30,360 / 30,360","$2,002,321",fearless,ts02
-Philadelphia,United States,"30,360 / 30,360","$2,002,321",fearless,ts02
-Charlottesville,United States,"11,858 / 11,858","$664,305",fearless,ts02
-Auburn Hills,United States,"29,125 / 29,125","$1,711,591",fearless,ts02
-Auburn Hills,United States,"29,125 / 29,125","$1,711,591",fearless,ts02
-Cincinnati,United States,"11,208 / 11,208","$645,592",fearless,ts02
-Oklahoma City,United States,"11,795 / 11,795","$675,184",fearless,ts02
-Wichita,United States,"11,208 / 11,208","$610,801",fearless,ts02
-Kansas City,United States,"13,781 / 13,781","$761,110",fearless,ts02
-Denver,United States,"25,991 / 25,991","$1,497,135",fearless,ts02
-Denver,United States,"25,991 / 25,991","$1,497,135",fearless,ts02
-Fresno,United States,"11,706 / 11,706","$649,488",fearless,ts02
-San Jose,United States,"12,744 / 12,744","$716,726",fearless,ts02
-Los Angeles,United States,"27,518 / 27,518","$1,736,197",fearless,ts02
-Los Angeles,United States,"27,518 / 27,518","$1,736,197",fearless,ts02
-Lexington,United States,"17,966 / 17,966","$1,024,223",fearless,ts02
-Columbia,United States,"13,429 / 13,429","$755,475",fearless,ts02
-Raleigh,United States,"13,895 / 13,895","$752,303",fearless,ts02
-Des Moines,United States,"13,264 / 13,264","$738,280",fearless,ts02
-Saint Paul,United States,"14,914 / 14,914","$846,111",fearless,ts02
-Moline,United States,"10,641 / 10,641","$610,668",fearless,ts02
-Newark,United States,"26,065 / 26,065","$1,742,669",fearless,ts02
-Newark,United States,"26,065 / 26,065","$1,742,669",fearless,ts02
-Uniondale,United States,"25,831 / 25,831","$1,713,529",fearless,ts02
-Uniondale,United States,"25,831 / 25,831","$1,713,529",fearless,ts02
-Ottawa,Canada,"13,376 / 13,376","$873,206",fearless,ts02
-Toronto,Canada,"30,458 / 30,458","$2,497,690",fearless,ts02
-Toronto,Canada,"30,458 / 30,458","$2,497,690",fearless,ts02
-Houston,United States,"23,493 / 23,493","$1,290,926",fearless,ts02
-Houston,United States,"23,493 / 23,493","$1,290,926",fearless,ts02
-Baton Rouge,United States,Â,Â,fearless,ts02
-Washington,United States,"27,290 / 27,290","$1,824,743",fearless,ts02
-Washington,United States,"27,290 / 27,290","$1,824,743",fearless,ts02
-Foxborough,United States,"56,868 / 56,868","$3,726,157",fearless,ts02
-Nassau,The Bahamas,Â,Â,fearless,ts02
-Cavendish,Canada,"35,000 / 35,000",Â,fearless,ts02
-Singapore,Singapore,"8,964 / 8,964","$916,850",speak now,ts03
-Seoul,South Korea,"4,725 / 4,725","$385,374",speak now,ts03
-Osaka,Japan,"6,953 / 6,953","$758,113",speak now,ts03
-Tokyo,Japan,"15,955 / 15,955","$1,738,227",speak now,ts03
-Tokyo,Japan,"15,955 / 15,955","$1,738,227",speak now,ts03
-Quezon City,Philippines,"12,667 / 12,667","$859,037",speak now,ts03
-Hong Kong,Hong Kong,"12,573 / 12,573","$1,030,633",speak now,ts03
-Brussels,Belgium,"4,622 / 4,622","$219,212",speak now,ts03
-Rotterdam,Netherlands,"4,799 / 4,799","$248,314",speak now,ts03
-Oslo,Norway,"8,650 / 8,650","$815,246",speak now,ts03
-Oberhausen,Germany,"6,082 / 6,082","$370,028",speak now,ts03
-Milan,Italy,"3,421 / 5,585","$153,303",speak now,ts03
-Paris,France,"3,598 / 8,500","$201,781",speak now,ts03
-Madrid,Spain,"3,962 / 3,962","$251,864",speak now,ts03
-Birmingham,England,"9,339 / 9,339","$508,854",speak now,ts03
-Belfast,Northern Ireland,"8,058 / 8,058","$379,001",speak now,ts03
-Dublin,Ireland,"8,681 / 8,681","$419,806",speak now,ts03
-Manchester,England,"10,488 / 11,622","$580,558",speak now,ts03
-London,England,"15,265 / 15,681","$891,152",speak now,ts03
-Omaha,United States,"26,992 / 26,992","$1,717,104",speak now,ts03
-Omaha,United States,"26,992 / 26,992","$1,717,104",speak now,ts03
-Des Moines,United States,"13,149 / 13,149","$862,771",speak now,ts03
-Sunrise,United States,"24,077 / 24,077","$1,582,951",speak now,ts03
-Sunrise,United States,"24,077 / 24,077","$1,582,951",speak now,ts03
-Orlando,United States,"12,262 / 12,262","$791,980",speak now,ts03
-Columbus,United States,"14,817 / 14,817","$955,259",speak now,ts03
-Milwaukee,United States,"13,748 / 13,748","$897,042",speak now,ts03
-Detroit,United States,"47,992 / 47,992","$3,453,549",speak now,ts03
-Saint Paul,United States,"28,977 / 28,977","$1,913,737",speak now,ts03
-Saint Paul,United States,"28,977 / 28,977","$1,913,737",speak now,ts03
-Pittsburgh,United States,"52,009 / 52,009","$4,009,118",speak now,ts03
-Buffalo,United States,"14,487 / 14,487","$966,749",speak now,ts03
-Hartford,United States,"12,436 / 12,436","$810,165",speak now,ts03
-Foxborough,United States,"110,800 / 110,800","$8,026,350",speak now,ts03
-Foxborough,United States,"110,800 / 110,800","$8,026,350",speak now,ts03
-Greensboro,United States,"14,789 / 14,789","$990,701",speak now,ts03
-Knoxville,United States,"13,754 / 13,754","$903,875",speak now,ts03
-Montreal,Canada,"13,439 / 13,439","$1,254,230",speak now,ts03
-Toronto,Canada,"30,144 / 30,144","$3,036,000",speak now,ts03
-Toronto,Canada,"30,144 / 30,144","$3,036,000",speak now,ts03
-Newark,United States,"51,487 / 51,487","$3,875,463",speak now,ts03
-Newark,United States,"51,487 / 51,487","$3,875,463",speak now,ts03
-Newark,United States,"51,487 / 51,487","$3,875,463",speak now,ts03
-Newark,United States,"51,487 / 51,487","$3,875,463",speak now,ts03
-Grand Rapids,United States,"11,012 / 11,012","$724,854",speak now,ts03
-Indianapolis,United States,"13,329 / 13,329","$877,175",speak now,ts03
-Cleveland,United States,"14,873 / 14,873","$976,954",speak now,ts03
-Washington,United States,"29,303 / 29,303","$2,068,789",speak now,ts03
-Washington,United States,"29,303 / 29,303","$2,068,789",speak now,ts03
-Philadelphia,United States,"51,395 / 51,395","$4,268,678",speak now,ts03
-Rosemont,United States,"26,112 / 26,112","$1,909,603",speak now,ts03
-Rosemont,United States,"26,112 / 26,112","$1,909,603",speak now,ts03
-St. Louis,United States,"27,965 / 27,965","$1,850,159",speak now,ts03
-St. Louis,United States,"27,965 / 27,965","$1,850,159",speak now,ts03
-Edmonton,Canada,"25,336 / 25,336","$2,136,270",speak now,ts03
-Edmonton,Canada,"25,336 / 25,336","$2,136,270",speak now,ts03
-Los Angeles,United States,"54,900 / 54,900","$3,927,154",speak now,ts03
-Los Angeles,United States,"54,900 / 54,900","$3,927,154",speak now,ts03
-Los Angeles,United States,"54,900 / 54,900","$3,927,154",speak now,ts03
-Los Angeles,United States,"54,900 / 54,900","$3,927,154",speak now,ts03
-San Jose,United States,"24,827 / 24,827","$1,825,448",speak now,ts03
-San Jose,United States,"24,827 / 24,827","$1,825,448",speak now,ts03
-Sacramento,United States,"12,432 / 12,432","$934,326",speak now,ts03
-Portland,United States,"13,610 / 13,610","$903,445",speak now,ts03
-Tacoma,United States,"19,904 / 19,904","$1,289,430",speak now,ts03
-Vancouver,Canada,"26,030 / 26,030","$2,190,680",speak now,ts03
-Vancouver,Canada,"26,030 / 26,030","$2,190,680",speak now,ts03
-Nashville,United States,"28,178 / 28,178","$1,841,134",speak now,ts03
-Nashville,United States,"28,178 / 28,178","$1,841,134",speak now,ts03
-Bossier City,United States,"11,510 / 11,510","$728,546",speak now,ts03
-Tulsa,United States,"12,546 / 12,546","$907,573",speak now,ts03
-Kansas City,United States,"48,562 / 48,562","$3,148,046",speak now,ts03
-Denver,United States,"12,908 / 12,908","$834,916",speak now,ts03
-Salt Lake City,United States,"13,720 / 13,720","$896,946",speak now,ts03
-Atlanta,United States,"26,244 / 26,244","$1,726,661",speak now,ts03
-Atlanta,United States,"26,244 / 26,244","$1,726,661",speak now,ts03
-North Little Rock,United States,"13,566 / 13,566","$856,123",speak now,ts03
-New Orleans,United States,"12,943 / 12,943","$830,289",speak now,ts03
-Arlington,United States,"55,451 / 55,451","$4,337,062",speak now,ts03
-Louisville,United States,"14,848 / 14,848","$1,003,828",speak now,ts03
-Lubbock,United States,"10,419 / 10,419","$710,426",speak now,ts03
-Oklahoma City,United States,"11,592 / 11,592","$758,364",speak now,ts03
-San Diego,United States,"10,834 / 10,834","$792,634",speak now,ts03
-Glendale,United States,"27,029 / 27,029","$1,826,025",speak now,ts03
-Glendale,United States,"27,029 / 27,029","$1,826,025",speak now,ts03
-San Antonio,United States,"13,851 / 13,851","$901,535",speak now,ts03
-Austin,United States,"11,999 / 11,999","$752,078",speak now,ts03
-Lexington,United States,"16,237 / 16,237","$1,041,935",speak now,ts03
-Memphis,United States,"12,604 / 12,604","$820,036",speak now,ts03
-Houston,United States,"42,095 / 42,095","$3,435,756",speak now,ts03
-Jacksonville,United States,"11,785 / 11,785","$749,099",speak now,ts03
-Tampa,United States,"13,695 / 13,695","$914,300",speak now,ts03
-Miami,United States,"12,153 / 12,153","$786,904",speak now,ts03
-Charlotte,United States,"14,272 / 14,272","$920,903",speak now,ts03
-Raleigh,United States,"13,567 / 13,567","$866,056",speak now,ts03
-Columbia,United States,"12,807 / 12,807","$828,231",speak now,ts03
-New York,United States,"26,652 / 26,652","$1,988,411",speak now,ts03
-New York,United States,"26,652 / 26,652","$1,988,411",speak now,ts03
-Perth,Australia,"15,142 / 15,142","$1,878,530",speak now,ts03
-Adelaide,Australia,"8,589 / 8,589","$1,075,370",speak now,ts03
-Brisbane,Australia,"19,870 / 19,870","$2,416,030",speak now,ts03
-Brisbane,Australia,"19,870 / 19,870","$2,416,030",speak now,ts03
-Sydney,Australia,"27,900 / 27,900","$3,420,360",speak now,ts03
-Sydney,Australia,"27,900 / 27,900","$3,420,360",speak now,ts03
-Melbourne,Australia,"33,793 / 33,793","$4,151,650",speak now,ts03
-Melbourne,Australia,"33,793 / 33,793","$4,151,650",speak now,ts03
-Melbourne,Australia,"33,793 / 33,793","$4,151,650",speak now,ts03
-Auckland,New Zealand,"32,585 / 32,585","$2,888,560",speak now,ts03
-Auckland,New Zealand,"32,585 / 32,585","$2,888,560",speak now,ts03
-Auckland,New Zealand,"32,585 / 32,585","$2,888,560",speak now,ts03
-Omaha,United States,"27,877 / 27,877","$2,243,164",red,ts04
-Omaha,United States,"27,877 / 27,877","$2,243,164",red,ts04
-St. Louis,United States,"28,582 / 28,582","$2,346,203",red,ts04
-St. Louis,United States,"28,582 / 28,582","$2,346,203",red,ts04
-Charlotte,United States,"14,686 / 14,686","$1,162,733",red,ts04
-Columbia,United States,"12,490 / 12,490","$996,114",red,ts04
-Newark,United States,"38,065 / 38,065","$3,565,317",red,ts04
-Newark,United States,"38,065 / 38,065","$3,565,317",red,ts04
-Newark,United States,"38,065 / 38,065","$3,565,317",red,ts04
-Miami,United States,"12,808 / 12,808","$1,010,175",red,ts04
-Orlando,United States,"25,617 / 25,617","$2,054,128",red,ts04
-Orlando,United States,"25,617 / 25,617","$2,054,128",red,ts04
-Atlanta,United States,"25,471 / 25,471","$2,048,023",red,ts04
-Atlanta,United States,"25,471 / 25,471","$2,048,023",red,ts04
-Tampa,United States,"14,080 / 14,080","$1,132,095",red,ts04
-Cleveland,United States,"15,336 / 15,336","$1,247,605",red,ts04
-Indianapolis,United States,"13,573 / 13,573","$1,082,042",red,ts04
-Lexington,United States,"17,003 / 17,003","$1,342,699",red,ts04
-Detroit,United States,"48,265 / 48,265","$3,969,059",red,ts04
-Louisville,United States,"15,135 / 15,135","$1,246,491",red,ts04
-Columbus,United States,"14,267 / 14,267","$1,155,170",red,ts04
-Washington,United States,"27,619 / 27,619","$2,489,205",red,ts04
-Washington,United States,"27,619 / 27,619","$2,489,205",red,ts04
-Houston,United States,"12,467 / 12,467","$961,422",red,ts04
-Austin,United States,"11,916 / 11,916","$935,631",red,ts04
-San Antonio,United States,"13,974 / 13,974","$1,105,253",red,ts04
-Arlington,United States,"53,020 / 53,020","$4,589,266",red,ts04
-Glendale,United States,"26,705 / 26,705","$2,239,370",red,ts04
-Glendale,United States,"26,705 / 26,705","$2,239,370",red,ts04
-Salt Lake City,United States,"14,007 / 14,007","$1,139,360",red,ts04
-Denver,United States,"13,489 / 13,489","$1,076,069",red,ts04
-Toronto,Canada,"87,627 / 87,627","$7,863,310",red,ts04
-Toronto,Canada,"87,627 / 87,627","$7,863,310",red,ts04
-Winnipeg,Canada,"33,061 / 33,061","$3,175,430",red,ts04
-Edmonton,Canada,"25,663 / 25,663","$2,379,870",red,ts04
-Edmonton,Canada,"25,663 / 25,663","$2,379,870",red,ts04
-Vancouver,Canada,"41,142 / 41,142","$3,974,410",red,ts04
-Pittsburgh,United States,"56,047 / 56,047","$4,718,518",red,ts04
-East Rutherford,United States,"52,399 / 52,399","$4,670,011",red,ts04
-Philadelphia,United States,"101,277 / 101,277","$8,822,335",red,ts04
-Philadelphia,United States,"101,277 / 101,277","$8,822,335",red,ts04
-Foxborough,United States,"110,712 / 110,712","$9,464,063",red,ts04
-Foxborough,United States,"110,712 / 110,712","$9,464,063",red,ts04
-Des Moines,United States,"13,368 / 13,368","$1,075,576",red,ts04
-Kansas City,United States,"26,412 / 26,412","$2,093,172",red,ts04
-Kansas City,United States,"26,412 / 26,412","$2,093,172",red,ts04
-Wichita,United States,"12,231 / 12,231","$983,882",red,ts04
-Tulsa,United States,"10,949 / 10,949","$868,955",red,ts04
-Chicago,United States,"50,809 / 50,809","$4,149,148",red,ts04
-San Diego,United States,"10,872 / 10,872","$948,541",red,ts04
-Los Angeles,United States,"55,829 / 55,829","$4,734,463",red,ts04
-Los Angeles,United States,"55,829 / 55,829","$4,734,463",red,ts04
-Los Angeles,United States,"55,829 / 55,829","$4,734,463",red,ts04
-Los Angeles,United States,"55,829 / 55,829","$4,734,463",red,ts04
-Sacramento,United States,"12,795 / 12,795","$1,138,103",red,ts04
-Portland,United States,"13,952 / 13,952","$1,084,760",red,ts04
-Tacoma,United States,"20,348 / 20,348","$1,584,049",red,ts04
-Fargo,United States,"21,073 / 21,073","$1,661,578",red,ts04
-Saint Paul,United States,"28,920 / 28,920","$2,320,937",red,ts04
-Saint Paul,United States,"28,920 / 28,920","$2,320,937",red,ts04
-Greensboro,United States,"13,650 / 13,650","$1,109,253",red,ts04
-Raleigh,United States,"13,941 / 13,941","$1,088,612",red,ts04
-Charlottesville,United States,"12,689 / 12,689","$997,216",red,ts04
-Nashville,United States,"41,292 / 41,292","$3,336,545",red,ts04
-Nashville,United States,"41,292 / 41,292","$3,336,545",red,ts04
-Nashville,United States,"41,292 / 41,292","$3,336,545",red,ts04
-Auckland,New Zealand,"30,799 / 30,799","$3,100,290",red,ts04
-Auckland,New Zealand,"30,799 / 30,799","$3,100,290",red,ts04
-Auckland,New Zealand,"30,799 / 30,799","$3,100,290",red,ts04
-Sydney,Australia,"40,930 / 40,930","$4,096,060",red,ts04
-Brisbane,Australia,"38,907 / 38,907","$3,895,810",red,ts04
-Perth,Australia,"21,827 / 21,827","$2,364,080",red,ts04
-Melbourne,Australia,"47,257 / 47,257","$4,547,250",red,ts04
-London,England,"74,740 / 74,740","$5,829,240",red,ts04
-London,England,"74,740 / 74,740","$5,829,240",red,ts04
-London,England,"74,740 / 74,740","$5,829,240",red,ts04
-Berlin,Germany,"10,350 / 10,350","$755,006",red,ts04
-London,England,,,red,ts04
-London,England,,,red,ts04
-Shanghai,China,"12,793 / 12,793","$1,864,934",red,ts04
-Saitama,Japan,"20,046 / 20,046","$1,837,147",red,ts04
-Jakarta,Indonesia,"8,130 / 8,130","$1,481,473",red,ts04
-Pasay,Philippines,"9,775 / 9,775","$1,511,662",red,ts04
-Singapore,Singapore,"16,344 / 16,344","$2,524,080",red,ts04
-Kuala Lumpur,Malaysia,"7,525 / 7,525","$998,608",red,ts04
-Singapore,Singapore,,,red,ts04
-Tokyo,Japan,"100,320 / 100,320","$10,586,828",1989,ts05
-Tokyo,Japan,"100,320 / 100,320","$10,586,828",1989,ts05
-Winchester,United States,Â,Â,1989,ts05
-Bossier City,United States,"12,459 / 12,459","$1,458,197",1989,ts05
-Baton Rouge,United States,"50,227 / 50,227","$4,119,670",1989,ts05
-Detroit,United States,"50,703 / 50,703","$5,999,690",1989,ts05
-Louisville,United States,"16,242 / 16,242","$1,863,281",1989,ts05
-Cleveland,United States,"15,503 / 15,503","$1,732,041",1989,ts05
-Pittsburgh,United States,"54,801 / 54,801","$5,836,926",1989,ts05
-Charlotte,United States,"15,024 / 15,024","$1,627,798",1989,ts05
-Raleigh,United States,"13,886 / 13,886","$1,653,762",1989,ts05
-Philadelphia,United States,"101,052 / 101,052","$11,987,816",1989,ts05
-Philadelphia,United States,"101,052 / 101,052","$11,987,816",1989,ts05
-Cologne,Germany,"29,020 / 29,020","$2,054,690",1989,ts05
-Cologne,Germany,"29,020 / 29,020","$2,054,690",1989,ts05
-Amsterdam,Netherlands,"11,166 / 11,166","$800,829",1989,ts05
-Glasgow,Scotland,"11,021 / 11,021","$1,119,300",1989,ts05
-Manchester,England,"14,773 / 14,773","$1,478,760",1989,ts05
-London,England,Â,Â,1989,ts05
-Dublin,Ireland,"25,188 / 25,188","$1,975,510",1989,ts05
-Dublin,Ireland,"25,188 / 25,188","$1,975,510",1989,ts05
-Ottawa,Canada,"13,480 / 13,480","$1,325,480",1989,ts05
-Montreal,Canada,"14,770 / 14,770","$1,499,040",1989,ts05
-East Rutherford,United States,"110,105 / 110,105","$13,423,858",1989,ts05
-East Rutherford,United States,"110,105 / 110,105","$13,423,858",1989,ts05
-Washington,United States,"85,014 / 85,014","$9,730,596",1989,ts05
-Washington,United States,"85,014 / 85,014","$9,730,596",1989,ts05
-Chicago,United States,"110,109 / 110,109","$11,469,887",1989,ts05
-Chicago,United States,"110,109 / 110,109","$11,469,887",1989,ts05
-Foxborough,United States,"116,849 / 116,849","$12,533,166",1989,ts05
-Foxborough,United States,"116,849 / 116,849","$12,533,166",1989,ts05
-Vancouver,Canada,"41,463 / 41,463","$4,081,820",1989,ts05
-Edmonton,Canada,"26,534 / 26,534","$2,387,080",1989,ts05
-Edmonton,Canada,"26,534 / 26,534","$2,387,080",1989,ts05
-Seattle,United States,"55,711 / 55,711","$6,050,643",1989,ts05
-Santa Clara,United States,"102,139 / 102,139","$13,031,146",1989,ts05
-Santa Clara,United States,"102,139 / 102,139","$13,031,146",1989,ts05
-Glendale,United States,"26,520 / 26,520","$3,029,628",1989,ts05
-Glendale,United States,"26,520 / 26,520","$3,029,628",1989,ts05
-Los Angeles,United States,"70,563 / 70,563","$8,961,681",1989,ts05
-Los Angeles,United States,"70,563 / 70,563","$8,961,681",1989,ts05
-Los Angeles,United States,"70,563 / 70,563","$8,961,681",1989,ts05
-Los Angeles,United States,"70,563 / 70,563","$8,961,681",1989,ts05
-Los Angeles,United States,"70,563 / 70,563","$8,961,681",1989,ts05
-San Diego,United States,"44,710 / 44,710","$5,475,237",1989,ts05
-Salt Lake City,United States,"14,131 / 14,131","$1,589,686",1989,ts05
-Denver,United States,"27,126 / 27,126","$2,868,991",1989,ts05
-Denver,United States,"27,126 / 27,126","$2,868,991",1989,ts05
-Houston,United States,"40,122 / 40,122","$5,202,196",1989,ts05
-Saint Paul,United States,"45,126 / 45,126","$5,514,863",1989,ts05
-Saint Paul,United States,"45,126 / 45,126","$5,514,863",1989,ts05
-Saint Paul,United States,"45,126 / 45,126","$5,514,863",1989,ts05
-Indianapolis,United States,"14,010 / 14,010","$1,550,268",1989,ts05
-Columbus,United States,"29,936 / 29,936","$3,369,693",1989,ts05
-Columbus,United States,"29,936 / 29,936","$3,369,693",1989,ts05
-Kansas City,United States,"27,857 / 27,857","$2,967,558",1989,ts05
-Kansas City,United States,"27,857 / 27,857","$2,967,558",1989,ts05
-Nashville,United States,"28,917 / 28,917","$3,354,844",1989,ts05
-Nashville,United States,"28,917 / 28,917","$3,354,844",1989,ts05
-St. Louis,United States,"29,688 / 29,688","$3,452,940",1989,ts05
-St. Louis,United States,"29,688 / 29,688","$3,452,940",1989,ts05
-Toronto,Canada,"99,283 / 99,283","$8,670,990",1989,ts05
-Toronto,Canada,"99,283 / 99,283","$8,670,990",1989,ts05
-Des Moines,United States,"13,969 / 13,969","$1,566,321",1989,ts05
-Omaha,United States,"29,622 / 29,622","$3,121,421",1989,ts05
-Omaha,United States,"29,622 / 29,622","$3,121,421",1989,ts05
-Fargo,United States,"21,067 / 21,067","$2,219,188",1989,ts05
-Arlington,United States,"62,630 / 62,630","$7,396,733",1989,ts05
-Lexington,United States,"17,084 / 17,084","$1,870,471",1989,ts05
-Greensboro,United States,"15,079 / 15,079","$1,662,171",1989,ts05
-Atlanta,United States,"56,046 / 56,046","$6,034,846",1989,ts05
-Miami,United States,"14,044 / 14,044","$1,527,919",1989,ts05
-Tampa,United States,"56,987 / 56,987","$6,202,515",1989,ts05
-Singapore,Singapore,"17,726 / 17,726","$3,217,569",1989,ts05
-Singapore,Singapore,"17,726 / 17,726","$3,217,569",1989,ts05
-Shanghai,China,"37,758 / 37,758","$5,917,348",1989,ts05
-Shanghai,China,"37,758 / 37,758","$5,917,348",1989,ts05
-Shanghai,China,"37,758 / 37,758","$5,917,348",1989,ts05
-Sydney,Australia,"75,980 / 75,980","$6,571,683",1989,ts05
-Brisbane,Australia,"46,881 / 46,881","$4,759,471",1989,ts05
-Adelaide,Australia,"20,090 / 20,090","$2,407,499",1989,ts05
-Adelaide,Australia,"20,090 / 20,090","$2,407,499",1989,ts05
-Melbourne,Australia,"98,136 / 98,136","$10,421,553",1989,ts05
-Melbourne,Australia,"98,136 / 98,136","$10,421,553",1989,ts05
-Melbourne,Australia,"98,136 / 98,136","$10,421,553",1989,ts05
-Glendale,United States,"59,157 / 59,157","$7,214,478",reputation,ts06
-Santa Clara,United States,"107,550 / 107,550","$14,006,963",reputation,ts06
-Santa Clara,United States,"107,550 / 107,550","$14,006,963",reputation,ts06
-Pasadena,United States,"118,084 / 118,084","$16,251,980",reputation,ts06
-Pasadena,United States,"118,084 / 118,084","$16,251,980",reputation,ts06
-Seattle,United States,"56,021 / 56,021","$8,672,219",reputation,ts06
-Denver,United States,"57,140 / 57,140","$7,926,366",reputation,ts06
-Chicago,United States,"105,208 / 105,208","$14,576,697",reputation,ts06
-Chicago,United States,"105,208 / 105,208","$14,576,697",reputation,ts06
-Manchester,England,"77,258 / 77,258","$6,169,724",reputation,ts06
-Manchester,England,"77,258 / 77,258","$6,169,724",reputation,ts06
-Dublin,Ireland,"133,034 / 133,034","$8,567,769",reputation,ts06
-Dublin,Ireland,"133,034 / 133,034","$8,567,769",reputation,ts06
-London,England,"143,427 / 143,427","$12,214,933",reputation,ts06
-London,England,"143,427 / 143,427","$12,214,933",reputation,ts06
-Louisville,United States,"52,138 / 52,138","$4,928,219",reputation,ts06
-Columbus,United States,"62,897 / 62,897","$6,606,529",reputation,ts06
-Landover,United States,"95,672 / 95,672","$11,396,004",reputation,ts06
-Landover,United States,"95,672 / 95,672","$11,396,004",reputation,ts06
-Philadelphia,United States,"107,378 / 107,378","$11,951,047",reputation,ts06
-Philadelphia,United States,"107,378 / 107,378","$11,951,047",reputation,ts06
-Cleveland,United States,"51,323 / 51,323","$5,148,757",reputation,ts06
-East Rutherford,United States,"165,654 / 165,654","$22,031,386",reputation,ts06
-East Rutherford,United States,"165,654 / 165,654","$22,031,386",reputation,ts06
-East Rutherford,United States,"165,654 / 165,654","$22,031,386",reputation,ts06
-Foxborough,United States,"174,764 / 174,764","$21,779,846",reputation,ts06
-Foxborough,United States,"174,764 / 174,764","$21,779,846",reputation,ts06
-Foxborough,United States,"174,764 / 174,764","$21,779,846",reputation,ts06
-Toronto,Canada,"100,310 / 100,310","$11,177,000",reputation,ts06
-Toronto,Canada,"100,310 / 100,310","$11,177,000",reputation,ts06
-Pittsburgh,United States,"56,445 / 56,445","$6,230,876",reputation,ts06
-Atlanta,United States,"116,746 / 116,746","$18,089,415",reputation,ts06
-Atlanta,United States,"116,746 / 116,746","$18,089,415",reputation,ts06
-Tampa,United States,"55,909 / 55,909","$7,244,264",reputation,ts06
-Miami Gardens,United States,"47,818 / 47,818","$7,072,164",reputation,ts06
-Nashville,United States,"56,112 / 56,112","$9,007,179",reputation,ts06
-Detroit,United States,"49,464 / 49,464","$6,597,852",reputation,ts06
-Minneapolis,United States,"98,774 / 98,774","$10,242,024",reputation,ts06
-Minneapolis,United States,"98,774 / 98,774","$10,242,024",reputation,ts06
-Kansas City,United States,"58,611 / 58,611","$6,730,138",reputation,ts06
-Indianapolis,United States,"55,729 / 55,729","$6,531,245",reputation,ts06
-St. Louis,United States,"47,831 / 47,831","$4,884,054",reputation,ts06
-New Orleans,United States,"53,172 / 53,172","$6,491,546",reputation,ts06
-Houston,United States,"53,800 / 53,800","$9,350,275",reputation,ts06
-Arlington,United States,"105,002 / 105,002","$15,006,157",reputation,ts06
-Arlington,United States,"105,002 / 105,002","$15,006,157",reputation,ts06
-Perth,Australia,"50,891 / 50,891","$4,153,658",reputation,ts06
-Melbourne,Australia,"63,027 / 63,027","$6,755,570",reputation,ts06
-Sydney,Australia,"72,805 / 72,805","$7,686,564",reputation,ts06
-Brisbane,Australia,"43,907 / 43,907","$4,338,127",reputation,ts06
-Auckland,New Zealand,"35,749 / 35,749","$3,617,593",reputation,ts06
-Tokyo,Japan,"100,109 / 100,109","$14,859,847",reputation,ts06
-Tokyo,Japan,"100,109 / 100,109","$14,859,847",reputation,ts06
+,city,country,attendance,revenue,tour,tour_id
+0,Evansville,United States,100.0,360617.0,fearless,ts02
+1,Jonesboro,United States,100.0,340328.0,fearless,ts02
+2,St. Louis,United States,100.0,650420.0,fearless,ts02
+3,Alexandria,United States,100.0,738280.0,fearless,ts02
+4,North Charleston,United States,100.0,398154.0,fearless,ts02
+5,Jacksonville,United States,100.0,507012.0,fearless,ts02
+6,Biloxi,United States,100.0,437313.0,fearless,ts02
+7,London,England,100.0,401328.0,fearless,ts02
+8,London,England,100.0,401328.0,fearless,ts02
+9,Spokane,United States,100.0,482146.0,fearless,ts02
+10,Seattle,United States,100.0,528637.0,fearless,ts02
+11,Portland,United States,100.0,613284.0,fearless,ts02
+12,Nampa,United States,100.0,413622.0,fearless,ts02
+13,Glendale,United States,100.0,647923.0,fearless,ts02
+14,Los Angeles,United States,100.0,720940.0,fearless,ts02
+15,Paradise,United States,100.0,551051.0,fearless,ts02
+16,San Diego,United States,100.0,502689.0,fearless,ts02
+17,Salt Lake City,United States,100.0,555207.0,fearless,ts02
+18,New Brockton,United States,100.0,738280.0,fearless,ts02
+19,Columbia,United States,100.0,608438.0,fearless,ts02
+20,Greensboro,United States,100.0,690959.0,fearless,ts02
+21,Oshkosh,United States,100.0,738280.0,fearless,ts02
+22,Cadott,United States,100.0,738280.0,fearless,ts02
+23,Calgary,Canada,100.0,738280.0,fearless,ts02
+24,Edmonton,Canada,131.2297257446181,2540906.0,fearless,ts02
+25,Craven,Canada,100.0,738280.0,fearless,ts02
+26,Winnipeg,Canada,100.0,512487.0,fearless,ts02
+27,Twin Lakes,United States,100.0,738280.0,fearless,ts02
+28,Columbus,United States,100.0,738280.0,fearless,ts02
+29,Charleston,United States,100.0,738280.0,fearless,ts02
+30,Cheyenne,United States,100.0,738280.0,fearless,ts02
+31,Rapid City,United States,100.0,738280.0,fearless,ts02
+32,Minot,United States,100.0,738280.0,fearless,ts02
+33,Philadelphia,United States,100.0,738280.0,fearless,ts02
+34,Detroit Lakes,United States,100.0,738280.0,fearless,ts02
+35,Omaha,United States,100.0,738280.0,fearless,ts02
+36,Chelmsford,England,100.0,738280.0,fearless,ts02
+37,Weston-under-Lizard,England,100.0,738280.0,fearless,ts02
+38,New York City,United States,100.0,976062.0,fearless,ts02
+39,Montville,United States,100.0,296306.0,fearless,ts02
+40,University Park,United States,100.0,738280.0,fearless,ts02
+41,Louisville,United States,100.0,738280.0,fearless,ts02
+42,Duluth,United States,100.0,738280.0,fearless,ts02
+43,Greenville,United States,100.0,738280.0,fearless,ts02
+44,Charlotte,United States,100.0,738280.0,fearless,ts02
+45,Lafayette,United States,100.0,738280.0,fearless,ts02
+46,Bossier City,United States,100.0,738280.0,fearless,ts02
+47,Birmingham,United States,100.0,738280.0,fearless,ts02
+48,Nashville,United States,100.0,642387.0,fearless,ts02
+49,Dallas,United States,100.0,628062.0,fearless,ts02
+50,North Little Rock,United States,100.0,654089.0,fearless,ts02
+51,Tulsa,United States,100.0,738280.0,fearless,ts02
+52,Pittsburgh,United States,100.0,738280.0,fearless,ts02
+53,Grand Rapids,United States,100.0,738280.0,fearless,ts02
+54,Cleveland,United States,100.0,743492.0,fearless,ts02
+55,Indianapolis,United States,100.0,634876.0,fearless,ts02
+56,Rosemont,United States,100.0,1150896.0,fearless,ts02
+57,Rosemont,United States,100.0,1150896.0,fearless,ts02
+58,Minneapolis,United States,100.0,623975.0,fearless,ts02
+59,London,England,100.0,738280.0,fearless,ts02
+60,Manchester,England,100.0,738280.0,fearless,ts02
+61,Brisbane,Australia,100.0,956505.0,fearless,ts02
+62,Sydney,Australia,100.0,2030640.0,fearless,ts02
+63,Sydney,Australia,100.0,2030640.0,fearless,ts02
+64,Newcastle,Australia,100.0,555396.0,fearless,ts02
+65,Melbourne,Australia,100.0,1627510.0,fearless,ts02
+66,Melbourne,Australia,100.0,1627510.0,fearless,ts02
+67,Adelaide,Australia,100.0,585352.0,fearless,ts02
+68,Tokyo,Japan,100.0,738280.0,fearless,ts02
+69,Tampa,United States,100.0,793049.0,fearless,ts02
+70,Orlando,United States,100.0,598581.0,fearless,ts02
+71,Sunrise,United States,100.0,777442.0,fearless,ts02
+72,Austin,United States,100.0,642705.0,fearless,ts02
+73,Dallas,United States,100.0,742954.0,fearless,ts02
+74,Corpus Christi,United States,100.0,501169.0,fearless,ts02
+75,Philadelphia,United States,100.0,2002321.0,fearless,ts02
+76,Philadelphia,United States,100.0,2002321.0,fearless,ts02
+77,Charlottesville,United States,100.0,664305.0,fearless,ts02
+78,Auburn Hills,United States,100.0,1711591.0,fearless,ts02
+79,Auburn Hills,United States,100.0,1711591.0,fearless,ts02
+80,Cincinnati,United States,100.0,645592.0,fearless,ts02
+81,Oklahoma City,United States,100.0,675184.0,fearless,ts02
+82,Wichita,United States,100.0,610801.0,fearless,ts02
+83,Kansas City,United States,100.0,761110.0,fearless,ts02
+84,Denver,United States,100.0,1497135.0,fearless,ts02
+85,Denver,United States,100.0,1497135.0,fearless,ts02
+86,Fresno,United States,100.0,649488.0,fearless,ts02
+87,San Jose,United States,100.0,716726.0,fearless,ts02
+88,Los Angeles,United States,100.0,1736197.0,fearless,ts02
+89,Los Angeles,United States,100.0,1736197.0,fearless,ts02
+90,Lexington,United States,100.0,1024223.0,fearless,ts02
+91,Columbia,United States,100.0,755475.0,fearless,ts02
+92,Raleigh,United States,100.0,752303.0,fearless,ts02
+93,Des Moines,United States,100.0,738280.0,fearless,ts02
+94,Saint Paul,United States,100.0,846111.0,fearless,ts02
+95,Moline,United States,100.0,610668.0,fearless,ts02
+96,Newark,United States,100.0,1742669.0,fearless,ts02
+97,Newark,United States,100.0,1742669.0,fearless,ts02
+98,Uniondale,United States,100.0,1713529.0,fearless,ts02
+99,Uniondale,United States,100.0,1713529.0,fearless,ts02
+100,Ottawa,Canada,100.0,873206.0,fearless,ts02
+101,Toronto,Canada,100.0,2497690.0,fearless,ts02
+102,Toronto,Canada,100.0,2497690.0,fearless,ts02
+103,Houston,United States,100.0,1290926.0,fearless,ts02
+104,Houston,United States,100.0,1290926.0,fearless,ts02
+105,Baton Rouge,United States,100.0,738280.0,fearless,ts02
+106,Washington,United States,100.0,1824743.0,fearless,ts02
+107,Washington,United States,100.0,1824743.0,fearless,ts02
+108,Foxborough,United States,100.0,3726157.0,fearless,ts02
+109,Nassau,The Bahamas,100.0,738280.0,fearless,ts02
+110,Cavendish,Canada,100.0,738280.0,fearless,ts02
+111,Singapore,Singapore,100.0,916850.0,speak now,ts03
+112,Seoul,South Korea,100.0,385374.0,speak now,ts03
+113,Osaka,Japan,100.0,758113.0,speak now,ts03
+114,Tokyo,Japan,100.0,1738227.0,speak now,ts03
+115,Tokyo,Japan,100.0,1738227.0,speak now,ts03
+116,Quezon City,Philippines,100.0,859037.0,speak now,ts03
+117,Hong Kong,Hong Kong,100.0,1030633.0,speak now,ts03
+118,Brussels,Belgium,100.0,219212.0,speak now,ts03
+119,Rotterdam,Netherlands,100.0,248314.0,speak now,ts03
+120,Oslo,Norway,100.0,815246.0,speak now,ts03
+121,Oberhausen,Germany,100.0,370028.0,speak now,ts03
+122,Milan,Italy,163.25635779011984,153303.0,speak now,ts03
+123,Paris,France,236.24235686492497,201781.0,speak now,ts03
+124,Madrid,Spain,100.0,251864.0,speak now,ts03
+125,Birmingham,England,100.0,508854.0,speak now,ts03
+126,Belfast,Northern Ireland,100.0,379001.0,speak now,ts03
+127,Dublin,Ireland,100.0,419806.0,speak now,ts03
+128,Manchester,England,110.81235697940504,580558.0,speak now,ts03
+129,London,England,102.72518833933836,891152.0,speak now,ts03
+130,Omaha,United States,100.0,1717104.0,speak now,ts03
+131,Omaha,United States,100.0,1717104.0,speak now,ts03
+132,Des Moines,United States,100.0,862771.0,speak now,ts03
+133,Sunrise,United States,100.0,1582951.0,speak now,ts03
+134,Sunrise,United States,100.0,1582951.0,speak now,ts03
+135,Orlando,United States,100.0,791980.0,speak now,ts03
+136,Columbus,United States,100.0,955259.0,speak now,ts03
+137,Milwaukee,United States,100.0,897042.0,speak now,ts03
+138,Detroit,United States,100.0,3453549.0,speak now,ts03
+139,Saint Paul,United States,100.0,1913737.0,speak now,ts03
+140,Saint Paul,United States,100.0,1913737.0,speak now,ts03
+141,Pittsburgh,United States,100.0,4009118.0,speak now,ts03
+142,Buffalo,United States,100.0,966749.0,speak now,ts03
+143,Hartford,United States,100.0,810165.0,speak now,ts03
+144,Foxborough,United States,100.0,8026350.0,speak now,ts03
+145,Foxborough,United States,100.0,8026350.0,speak now,ts03
+146,Greensboro,United States,100.0,990701.0,speak now,ts03
+147,Knoxville,United States,100.0,903875.0,speak now,ts03
+148,Montreal,Canada,100.0,1254230.0,speak now,ts03
+149,Toronto,Canada,100.0,3036000.0,speak now,ts03
+150,Toronto,Canada,100.0,3036000.0,speak now,ts03
+151,Newark,United States,100.0,3875463.0,speak now,ts03
+152,Newark,United States,100.0,3875463.0,speak now,ts03
+153,Newark,United States,100.0,3875463.0,speak now,ts03
+154,Newark,United States,100.0,3875463.0,speak now,ts03
+155,Grand Rapids,United States,100.0,724854.0,speak now,ts03
+156,Indianapolis,United States,100.0,877175.0,speak now,ts03
+157,Cleveland,United States,100.0,976954.0,speak now,ts03
+158,Washington,United States,100.0,2068789.0,speak now,ts03
+159,Washington,United States,100.0,2068789.0,speak now,ts03
+160,Philadelphia,United States,100.0,4268678.0,speak now,ts03
+161,Rosemont,United States,100.0,1909603.0,speak now,ts03
+162,Rosemont,United States,100.0,1909603.0,speak now,ts03
+163,St. Louis,United States,100.0,1850159.0,speak now,ts03
+164,St. Louis,United States,100.0,1850159.0,speak now,ts03
+165,Edmonton,Canada,100.0,2136270.0,speak now,ts03
+166,Edmonton,Canada,100.0,2136270.0,speak now,ts03
+167,Los Angeles,United States,100.0,3927154.0,speak now,ts03
+168,Los Angeles,United States,100.0,3927154.0,speak now,ts03
+169,Los Angeles,United States,100.0,3927154.0,speak now,ts03
+170,Los Angeles,United States,100.0,3927154.0,speak now,ts03
+171,San Jose,United States,100.0,1825448.0,speak now,ts03
+172,San Jose,United States,100.0,1825448.0,speak now,ts03
+173,Sacramento,United States,100.0,934326.0,speak now,ts03
+174,Portland,United States,100.0,903445.0,speak now,ts03
+175,Tacoma,United States,100.0,1289430.0,speak now,ts03
+176,Vancouver,Canada,100.0,2190680.0,speak now,ts03
+177,Vancouver,Canada,100.0,2190680.0,speak now,ts03
+178,Nashville,United States,100.0,1841134.0,speak now,ts03
+179,Nashville,United States,100.0,1841134.0,speak now,ts03
+180,Bossier City,United States,100.0,728546.0,speak now,ts03
+181,Tulsa,United States,100.0,907573.0,speak now,ts03
+182,Kansas City,United States,100.0,3148046.0,speak now,ts03
+183,Denver,United States,100.0,834916.0,speak now,ts03
+184,Salt Lake City,United States,100.0,896946.0,speak now,ts03
+185,Atlanta,United States,100.0,1726661.0,speak now,ts03
+186,Atlanta,United States,100.0,1726661.0,speak now,ts03
+187,North Little Rock,United States,100.0,856123.0,speak now,ts03
+188,New Orleans,United States,100.0,830289.0,speak now,ts03
+189,Arlington,United States,100.0,4337062.0,speak now,ts03
+190,Louisville,United States,100.0,1003828.0,speak now,ts03
+191,Lubbock,United States,100.0,710426.0,speak now,ts03
+192,Oklahoma City,United States,100.0,758364.0,speak now,ts03
+193,San Diego,United States,100.0,792634.0,speak now,ts03
+194,Glendale,United States,100.0,1826025.0,speak now,ts03
+195,Glendale,United States,100.0,1826025.0,speak now,ts03
+196,San Antonio,United States,100.0,901535.0,speak now,ts03
+197,Austin,United States,100.0,752078.0,speak now,ts03
+198,Lexington,United States,100.0,1041935.0,speak now,ts03
+199,Memphis,United States,100.0,820036.0,speak now,ts03
+200,Houston,United States,100.0,3435756.0,speak now,ts03
+201,Jacksonville,United States,100.0,749099.0,speak now,ts03
+202,Tampa,United States,100.0,914300.0,speak now,ts03
+203,Miami,United States,100.0,786904.0,speak now,ts03
+204,Charlotte,United States,100.0,920903.0,speak now,ts03
+205,Raleigh,United States,100.0,866056.0,speak now,ts03
+206,Columbia,United States,100.0,828231.0,speak now,ts03
+207,New York,United States,100.0,1988411.0,speak now,ts03
+208,New York,United States,100.0,1988411.0,speak now,ts03
+209,Perth,Australia,100.0,1878530.0,speak now,ts03
+210,Adelaide,Australia,100.0,1075370.0,speak now,ts03
+211,Brisbane,Australia,100.0,2416030.0,speak now,ts03
+212,Brisbane,Australia,100.0,2416030.0,speak now,ts03
+213,Sydney,Australia,100.0,3420360.0,speak now,ts03
+214,Sydney,Australia,100.0,3420360.0,speak now,ts03
+215,Melbourne,Australia,100.0,4151650.0,speak now,ts03
+216,Melbourne,Australia,100.0,4151650.0,speak now,ts03
+217,Melbourne,Australia,100.0,4151650.0,speak now,ts03
+218,Auckland,New Zealand,100.0,2888560.0,speak now,ts03
+219,Auckland,New Zealand,100.0,2888560.0,speak now,ts03
+220,Auckland,New Zealand,100.0,2888560.0,speak now,ts03
+221,Omaha,United States,100.0,2243164.0,red,ts04
+222,Omaha,United States,100.0,2243164.0,red,ts04
+223,St. Louis,United States,100.0,2346203.0,red,ts04
+224,St. Louis,United States,100.0,2346203.0,red,ts04
+225,Charlotte,United States,100.0,1162733.0,red,ts04
+226,Columbia,United States,100.0,996114.0,red,ts04
+227,Newark,United States,100.0,3565317.0,red,ts04
+228,Newark,United States,100.0,3565317.0,red,ts04
+229,Newark,United States,100.0,3565317.0,red,ts04
+230,Miami,United States,100.0,1010175.0,red,ts04
+231,Orlando,United States,100.0,2054128.0,red,ts04
+232,Orlando,United States,100.0,2054128.0,red,ts04
+233,Atlanta,United States,100.0,2048023.0,red,ts04
+234,Atlanta,United States,100.0,2048023.0,red,ts04
+235,Tampa,United States,100.0,1132095.0,red,ts04
+236,Cleveland,United States,100.0,1247605.0,red,ts04
+237,Indianapolis,United States,100.0,1082042.0,red,ts04
+238,Lexington,United States,100.0,1342699.0,red,ts04
+239,Detroit,United States,100.0,3969059.0,red,ts04
+240,Louisville,United States,100.0,1246491.0,red,ts04
+241,Columbus,United States,100.0,1155170.0,red,ts04
+242,Washington,United States,100.0,2489205.0,red,ts04
+243,Washington,United States,100.0,2489205.0,red,ts04
+244,Houston,United States,100.0,961422.0,red,ts04
+245,Austin,United States,100.0,935631.0,red,ts04
+246,San Antonio,United States,100.0,1105253.0,red,ts04
+247,Arlington,United States,100.0,4589266.0,red,ts04
+248,Glendale,United States,100.0,2239370.0,red,ts04
+249,Glendale,United States,100.0,2239370.0,red,ts04
+250,Salt Lake City,United States,100.0,1139360.0,red,ts04
+251,Denver,United States,100.0,1076069.0,red,ts04
+252,Toronto,Canada,100.0,7863310.0,red,ts04
+253,Toronto,Canada,100.0,7863310.0,red,ts04
+254,Winnipeg,Canada,100.0,3175430.0,red,ts04
+255,Edmonton,Canada,100.0,2379870.0,red,ts04
+256,Edmonton,Canada,100.0,2379870.0,red,ts04
+257,Vancouver,Canada,100.0,3974410.0,red,ts04
+258,Pittsburgh,United States,100.0,4718518.0,red,ts04
+259,East Rutherford,United States,100.0,4670011.0,red,ts04
+260,Philadelphia,United States,100.0,8822335.0,red,ts04
+261,Philadelphia,United States,100.0,8822335.0,red,ts04
+262,Foxborough,United States,100.0,9464063.0,red,ts04
+263,Foxborough,United States,100.0,9464063.0,red,ts04
+264,Des Moines,United States,100.0,1075576.0,red,ts04
+265,Kansas City,United States,100.0,2093172.0,red,ts04
+266,Kansas City,United States,100.0,2093172.0,red,ts04
+267,Wichita,United States,100.0,983882.0,red,ts04
+268,Tulsa,United States,100.0,868955.0,red,ts04
+269,Chicago,United States,100.0,4149148.0,red,ts04
+270,San Diego,United States,100.0,948541.0,red,ts04
+271,Los Angeles,United States,100.0,4734463.0,red,ts04
+272,Los Angeles,United States,100.0,4734463.0,red,ts04
+273,Los Angeles,United States,100.0,4734463.0,red,ts04
+274,Los Angeles,United States,100.0,4734463.0,red,ts04
+275,Sacramento,United States,100.0,1138103.0,red,ts04
+276,Portland,United States,100.0,1084760.0,red,ts04
+277,Tacoma,United States,100.0,1584049.0,red,ts04
+278,Fargo,United States,100.0,1661578.0,red,ts04
+279,Saint Paul,United States,100.0,2320937.0,red,ts04
+280,Saint Paul,United States,100.0,2320937.0,red,ts04
+281,Greensboro,United States,100.0,1109253.0,red,ts04
+282,Raleigh,United States,100.0,1088612.0,red,ts04
+283,Charlottesville,United States,100.0,997216.0,red,ts04
+284,Nashville,United States,100.0,3336545.0,red,ts04
+285,Nashville,United States,100.0,3336545.0,red,ts04
+286,Nashville,United States,100.0,3336545.0,red,ts04
+287,Auckland,New Zealand,100.0,3100290.0,red,ts04
+288,Auckland,New Zealand,100.0,3100290.0,red,ts04
+289,Auckland,New Zealand,100.0,3100290.0,red,ts04
+290,Sydney,Australia,100.0,4096060.0,red,ts04
+291,Brisbane,Australia,100.0,3895810.0,red,ts04
+292,Perth,Australia,100.0,2364080.0,red,ts04
+293,Melbourne,Australia,100.0,4547250.0,red,ts04
+294,London,England,100.0,5829240.0,red,ts04
+295,London,England,100.0,5829240.0,red,ts04
+296,London,England,100.0,5829240.0,red,ts04
+297,Berlin,Germany,100.0,755006.0,red,ts04
+298,London,England,100.0,2320937.0,red,ts04
+299,London,England,100.0,2320937.0,red,ts04
+300,Shanghai,China,100.0,1864934.0,red,ts04
+301,Saitama,Japan,100.0,1837147.0,red,ts04
+302,Jakarta,Indonesia,100.0,1481473.0,red,ts04
+303,Pasay,Philippines,100.0,1511662.0,red,ts04
+304,Singapore,Singapore,100.0,2524080.0,red,ts04
+305,Kuala Lumpur,Malaysia,100.0,998608.0,red,ts04
+306,Singapore,Singapore,100.0,2320937.0,red,ts04
+307,Tokyo,Japan,100.0,10586828.0,1989,ts05
+308,Tokyo,Japan,100.0,10586828.0,1989,ts05
+309,Winchester,United States,100.0,4081820.0,1989,ts05
+310,Bossier City,United States,100.0,1458197.0,1989,ts05
+311,Baton Rouge,United States,100.0,4119670.0,1989,ts05
+312,Detroit,United States,100.0,5999690.0,1989,ts05
+313,Louisville,United States,100.0,1863281.0,1989,ts05
+314,Cleveland,United States,100.0,1732041.0,1989,ts05
+315,Pittsburgh,United States,100.0,5836926.0,1989,ts05
+316,Charlotte,United States,100.0,1627798.0,1989,ts05
+317,Raleigh,United States,100.0,1653762.0,1989,ts05
+318,Philadelphia,United States,100.0,11987816.0,1989,ts05
+319,Philadelphia,United States,100.0,11987816.0,1989,ts05
+320,Cologne,Germany,100.0,2054690.0,1989,ts05
+321,Cologne,Germany,100.0,2054690.0,1989,ts05
+322,Amsterdam,Netherlands,100.0,800829.0,1989,ts05
+323,Glasgow,Scotland,100.0,1119300.0,1989,ts05
+324,Manchester,England,100.0,1478760.0,1989,ts05
+325,London,England,100.0,4081820.0,1989,ts05
+326,Dublin,Ireland,100.0,1975510.0,1989,ts05
+327,Dublin,Ireland,100.0,1975510.0,1989,ts05
+328,Ottawa,Canada,100.0,1325480.0,1989,ts05
+329,Montreal,Canada,100.0,1499040.0,1989,ts05
+330,East Rutherford,United States,100.0,13423858.0,1989,ts05
+331,East Rutherford,United States,100.0,13423858.0,1989,ts05
+332,Washington,United States,100.0,9730596.0,1989,ts05
+333,Washington,United States,100.0,9730596.0,1989,ts05
+334,Chicago,United States,100.0,11469887.0,1989,ts05
+335,Chicago,United States,100.0,11469887.0,1989,ts05
+336,Foxborough,United States,100.0,12533166.0,1989,ts05
+337,Foxborough,United States,100.0,12533166.0,1989,ts05
+338,Vancouver,Canada,100.0,4081820.0,1989,ts05
+339,Edmonton,Canada,100.0,2387080.0,1989,ts05
+340,Edmonton,Canada,100.0,2387080.0,1989,ts05
+341,Seattle,United States,100.0,6050643.0,1989,ts05
+342,Santa Clara,United States,100.0,13031146.0,1989,ts05
+343,Santa Clara,United States,100.0,13031146.0,1989,ts05
+344,Glendale,United States,100.0,3029628.0,1989,ts05
+345,Glendale,United States,100.0,3029628.0,1989,ts05
+346,Los Angeles,United States,100.0,8961681.0,1989,ts05
+347,Los Angeles,United States,100.0,8961681.0,1989,ts05
+348,Los Angeles,United States,100.0,8961681.0,1989,ts05
+349,Los Angeles,United States,100.0,8961681.0,1989,ts05
+350,Los Angeles,United States,100.0,8961681.0,1989,ts05
+351,San Diego,United States,100.0,5475237.0,1989,ts05
+352,Salt Lake City,United States,100.0,1589686.0,1989,ts05
+353,Denver,United States,100.0,2868991.0,1989,ts05
+354,Denver,United States,100.0,2868991.0,1989,ts05
+355,Houston,United States,100.0,5202196.0,1989,ts05
+356,Saint Paul,United States,100.0,5514863.0,1989,ts05
+357,Saint Paul,United States,100.0,5514863.0,1989,ts05
+358,Saint Paul,United States,100.0,5514863.0,1989,ts05
+359,Indianapolis,United States,100.0,1550268.0,1989,ts05
+360,Columbus,United States,100.0,3369693.0,1989,ts05
+361,Columbus,United States,100.0,3369693.0,1989,ts05
+362,Kansas City,United States,100.0,2967558.0,1989,ts05
+363,Kansas City,United States,100.0,2967558.0,1989,ts05
+364,Nashville,United States,100.0,3354844.0,1989,ts05
+365,Nashville,United States,100.0,3354844.0,1989,ts05
+366,St. Louis,United States,100.0,3452940.0,1989,ts05
+367,St. Louis,United States,100.0,3452940.0,1989,ts05
+368,Toronto,Canada,100.0,8670990.0,1989,ts05
+369,Toronto,Canada,100.0,8670990.0,1989,ts05
+370,Des Moines,United States,100.0,1566321.0,1989,ts05
+371,Omaha,United States,100.0,3121421.0,1989,ts05
+372,Omaha,United States,100.0,3121421.0,1989,ts05
+373,Fargo,United States,100.0,2219188.0,1989,ts05
+374,Arlington,United States,100.0,7396733.0,1989,ts05
+375,Lexington,United States,100.0,1870471.0,1989,ts05
+376,Greensboro,United States,100.0,1662171.0,1989,ts05
+377,Atlanta,United States,100.0,6034846.0,1989,ts05
+378,Miami,United States,100.0,1527919.0,1989,ts05
+379,Tampa,United States,100.0,6202515.0,1989,ts05
+380,Singapore,Singapore,100.0,3217569.0,1989,ts05
+381,Singapore,Singapore,100.0,3217569.0,1989,ts05
+382,Shanghai,China,100.0,5917348.0,1989,ts05
+383,Shanghai,China,100.0,5917348.0,1989,ts05
+384,Shanghai,China,100.0,5917348.0,1989,ts05
+385,Sydney,Australia,100.0,6571683.0,1989,ts05
+386,Brisbane,Australia,100.0,4759471.0,1989,ts05
+387,Adelaide,Australia,100.0,2407499.0,1989,ts05
+388,Adelaide,Australia,100.0,2407499.0,1989,ts05
+389,Melbourne,Australia,100.0,10421553.0,1989,ts05
+390,Melbourne,Australia,100.0,10421553.0,1989,ts05
+391,Melbourne,Australia,100.0,10421553.0,1989,ts05
+392,Glendale,United States,100.0,7214478.0,reputation,ts06
+393,Santa Clara,United States,100.0,14006963.0,reputation,ts06
+394,Santa Clara,United States,100.0,14006963.0,reputation,ts06
+395,Pasadena,United States,100.0,16251980.0,reputation,ts06
+396,Pasadena,United States,100.0,16251980.0,reputation,ts06
+397,Seattle,United States,100.0,8672219.0,reputation,ts06
+398,Denver,United States,100.0,7926366.0,reputation,ts06
+399,Chicago,United States,100.0,14576697.0,reputation,ts06
+400,Chicago,United States,100.0,14576697.0,reputation,ts06
+401,Manchester,England,100.0,6169724.0,reputation,ts06
+402,Manchester,England,100.0,6169724.0,reputation,ts06
+403,Dublin,Ireland,100.0,8567769.0,reputation,ts06
+404,Dublin,Ireland,100.0,8567769.0,reputation,ts06
+405,London,England,100.0,12214933.0,reputation,ts06
+406,London,England,100.0,12214933.0,reputation,ts06
+407,Louisville,United States,100.0,4928219.0,reputation,ts06
+408,Columbus,United States,100.0,6606529.0,reputation,ts06
+409,Landover,United States,100.0,11396004.0,reputation,ts06
+410,Landover,United States,100.0,11396004.0,reputation,ts06
+411,Philadelphia,United States,100.0,11951047.0,reputation,ts06
+412,Philadelphia,United States,100.0,11951047.0,reputation,ts06
+413,Cleveland,United States,100.0,5148757.0,reputation,ts06
+414,East Rutherford,United States,100.0,22031386.0,reputation,ts06
+415,East Rutherford,United States,100.0,22031386.0,reputation,ts06
+416,East Rutherford,United States,100.0,22031386.0,reputation,ts06
+417,Foxborough,United States,100.0,21779846.0,reputation,ts06
+418,Foxborough,United States,100.0,21779846.0,reputation,ts06
+419,Foxborough,United States,100.0,21779846.0,reputation,ts06
+420,Toronto,Canada,100.0,11177000.0,reputation,ts06
+421,Toronto,Canada,100.0,11177000.0,reputation,ts06
+422,Pittsburgh,United States,100.0,6230876.0,reputation,ts06
+423,Atlanta,United States,100.0,18089415.0,reputation,ts06
+424,Atlanta,United States,100.0,18089415.0,reputation,ts06
+425,Tampa,United States,100.0,7244264.0,reputation,ts06
+426,Miami Gardens,United States,100.0,7072164.0,reputation,ts06
+427,Nashville,United States,100.0,9007179.0,reputation,ts06
+428,Detroit,United States,100.0,6597852.0,reputation,ts06
+429,Minneapolis,United States,100.0,10242024.0,reputation,ts06
+430,Minneapolis,United States,100.0,10242024.0,reputation,ts06
+431,Kansas City,United States,100.0,6730138.0,reputation,ts06
+432,Indianapolis,United States,100.0,6531245.0,reputation,ts06
+433,St. Louis,United States,100.0,4884054.0,reputation,ts06
+434,New Orleans,United States,100.0,6491546.0,reputation,ts06
+435,Houston,United States,100.0,9350275.0,reputation,ts06
+436,Arlington,United States,100.0,15006157.0,reputation,ts06
+437,Arlington,United States,100.0,15006157.0,reputation,ts06
+438,Perth,Australia,100.0,4153658.0,reputation,ts06
+439,Melbourne,Australia,100.0,6755570.0,reputation,ts06
+440,Sydney,Australia,100.0,7686564.0,reputation,ts06
+441,Brisbane,Australia,100.0,4338127.0,reputation,ts06
+442,Auckland,New Zealand,100.0,3617593.0,reputation,ts06
+443,Tokyo,Japan,100.0,14859847.0,reputation,ts06
+444,Tokyo,Japan,100.0,14859847.0,reputation,ts06
