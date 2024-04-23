@@ -1,7 +1,8 @@
 - album_info (ok)
 - all_songs_audio_data (spotify) (ok)
 - awards_info (ok)
-- concerts_per_tour
+- concerts_per_tour (ok)
 - general_info_albums (ok)
 - taylor_full_lyrics (ok)
 - taylor_tuits_limpio (ok)
+- taylor_tuits_citados (ok)
