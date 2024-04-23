@@ -2,6 +2,6 @@
 - all_songs_audio_data (spotify) (ok)
 - awards_info (ok)
 - concerts_per_tour
-- general_info_albums
-- taylor_full_lyrics
-- TaylorSwift13
+- general_info_albums (ok)
+- taylor_full_lyrics (ok)
+- taylor_tuits_limpio (ok)
