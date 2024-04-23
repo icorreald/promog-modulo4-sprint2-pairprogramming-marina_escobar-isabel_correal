@@ -1,6 +1,6 @@
-- album_info
-- all_songs_audio_data (spotify)
-- awards_info
+- album_info (ok)
+- all_songs_audio_data (spotify) (ok)
+- awards_info (ok)
 - concerts_per_tour
 - general_info_albums
 - taylor_full_lyrics
