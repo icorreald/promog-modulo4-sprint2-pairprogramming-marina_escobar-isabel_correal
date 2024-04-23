@@ -1,0 +1,7 @@
+- album_info
+- all_songs_audio_data (spotify)
+- awards_info
+- concerts_per_tour
+- general_info_albums
+- taylor_full_lyrics
+- TaylorSwift13
