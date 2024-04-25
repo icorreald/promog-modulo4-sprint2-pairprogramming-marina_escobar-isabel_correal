@@ -1,0 +1,100 @@
+,album,categoria,promedio
+0,1989,acousticness,0.24461963157894737
+1,Fearless,acousticness,0.2024478947368421
+2,Lover,acousticness,0.33374333333333334
+3,Midnights,acousticness,0.41322000000000003
+4,Red,acousticness,0.1487985
+5,Speak Now,acousticness,0.249275
+6,the tortured poets department,acousticness,0.5801516129032258
+7,Taylor Swift,acousticness,0.18299466666666667
+8,Evermore,acousticness,0.7941176470588235
+9,Folklore,acousticness,0.7175882352941176
+10,Reputation,acousticness,0.13851466666666667
+11,1989,danceability,0.6332105263157896
+12,Fearless,danceability,0.5759473684210527
+13,Lover,danceability,0.6582222222222223
+14,Midnights,danceability,0.6266499999999999
+15,Red,danceability,0.6333636363636364
+16,Speak Now,danceability,0.55645
+17,the tortured poets department,danceability,0.5279032258064515
+18,Taylor Swift,danceability,0.5452666666666667
+19,Evermore,danceability,0.5268235294117647
+20,Folklore,danceability,0.5419411764705883
+21,Reputation,danceability,0.6579333333333334
+22,1989,energy,0.6248421052631579
+23,Fearless,energy,0.6010526315789474
+24,Lover,energy,0.5452222222222223
+25,Midnights,energy,0.45115
+26,Red,energy,0.6007727272727273
+27,Speak Now,energy,0.6479
+28,the tortured poets department,energy,0.46061290322580645
+29,Taylor Swift,energy,0.6642666666666667
+30,Evermore,energy,0.4940588235294117
+31,Folklore,energy,0.4158235294117647
+32,Reputation,energy,0.5828666666666666
+33,1989,instrumentalness,0.0007042684210526315
+34,Fearless,instrumentalness,2.2700000000000003e-06
+35,Lover,instrumentalness,0.0007330572222222222
+36,Midnights,instrumentalness,0.018134064999999998
+37,Red,instrumentalness,0.001802364090909091
+38,Speak Now,instrumentalness,4.5934e-05
+39,the tortured poets department,instrumentalness,0.00021417354838709678
+40,Taylor Swift,instrumentalness,5.38e-05
+41,Evermore,instrumentalness,0.020617178235294117
+42,Folklore,instrumentalness,0.0003017123529411765
+43,Reputation,instrumentalness,4.3788e-05
+44,1989,liveness,0.20321052631578945
+45,Fearless,liveness,0.1598263157894737
+46,Lover,liveness,0.11523333333333333
+47,Midnights,liveness,0.150235
+48,Red,liveness,0.12621363636363636
+49,Speak Now,liveness,0.17250000000000001
+50,the tortured poets department,liveness,0.15004516129032258
+51,Taylor Swift,liveness,0.16077333333333332
+52,Evermore,liveness,0.11358823529411766
+53,Folklore,liveness,0.11046470588235294
+54,Reputation,liveness,0.15215333333333333
+55,1989,loudness,-7.9241052631578945
+56,Fearless,loudness,-5.708210526315789
+57,Lover,loudness,-8.013277777777779
+58,Midnights,loudness,-10.588049999999999
+59,Red,loudness,-7.380045454545454
+60,Speak Now,loudness,-4.72625
+61,the tortured poets department,loudness,-9.38125806451613
+62,Taylor Swift,loudness,-4.7316666666666665
+63,Evermore,loudness,-9.781588235294118
+64,Folklore,loudness,-10.336058823529411
+65,Reputation,loudness,-7.6724
+66,1989,speechiness,0.17345263157894736
+67,Fearless,speechiness,0.031905263157894735
+68,Lover,speechiness,0.09911666666666667
+69,Midnights,speechiness,0.09207499999999999
+70,Red,speechiness,0.03657727272727273
+71,Speak Now,speechiness,0.03467
+72,the tortured poets department,speechiness,0.05672903225806451
+73,Taylor Swift,speechiness,0.03268666666666666
+74,Evermore,speechiness,0.05790588235294118
+75,Folklore,speechiness,0.03948235294117647
+76,Reputation,speechiness,0.09512000000000001
+77,1989,tempo,127.03305263157895
+78,Fearless,tempo,123.08926315789473
+79,Lover,tempo,119.97272222222222
+80,Midnights,tempo,119.74494999999999
+81,Red,tempo,110.29672727272727
+82,Speak Now,tempo,136.37560000000002
+83,the tortured poets department,tempo,122.10209677419354
+84,Taylor Swift,tempo,126.0538
+85,Evermore,tempo,120.70729411764705
+86,Folklore,tempo,119.88441176470589
+87,Reputation,tempo,127.54013333333334
+88,1989,valence,0.4542105263157895
+89,Fearless,valence,0.38005263157894736
+90,Lover,valence,0.48144444444444445
+91,Midnights,valence,0.28253
+92,Red,valence,0.4681909090909091
+93,Speak Now,valence,0.41695000000000004
+94,the tortured poets department,valence,0.3183548387096774
+95,Taylor Swift,valence,0.4265333333333333
+96,Evermore,valence,0.4335294117647059
+97,Folklore,valence,0.3613529411764706
+98,Reputation,valence,0.2934
