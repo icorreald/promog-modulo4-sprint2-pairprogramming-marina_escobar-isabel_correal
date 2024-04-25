@@ -1,0 +1,100 @@
+album,categoria,promedio
+1989,acústico,0.24461963157894737
+Fearless,acústico,0.2024478947368421
+Lover,acústico,0.33374333333333334
+Midnights,acústico,0.41322000000000003
+Red,acústico,0.1487985
+Speak Now,acústico,0.249275
+The Tortured Poets Department,acústico,0.5801516129032258
+Taylor Swift,acústico,0.18299466666666667
+Everore,acústico,0.7941176470588235
+Folklore,acústico,0.7175882352941176
+Reputation,acústico,0.13851466666666667
+1989,danzabilidad,0.6332105263157896
+Fearless,danzabilidad,0.5759473684210527
+Lover,danzabilidad,0.6582222222222223
+Midnights,danzabilidad,0.6266499999999999
+Red,danzabilidad,0.6333636363636364
+Speak Now,danzabilidad,0.55645
+The Tortured Poets Department,danzabilidad,0.5279032258064515
+Taylor Swift,danzabilidad,0.5452666666666667
+Everore,danzabilidad,0.5268235294117647
+Folklore,danzabilidad,0.5419411764705883
+Reputation,danzabilidad,0.6579333333333334
+1989,energía,0.6248421052631579
+Fearless,energía,0.6010526315789474
+Lover,energía,0.5452222222222223
+Midnights,energía,0.45115
+Red,energía,0.6007727272727273
+Speak Now,energía,0.6479
+The Tortured Poets Department,energía,0.46061290322580645
+Taylor Swift,energía,0.6642666666666667
+Everore,energía,0.4940588235294117
+Folklore,energía,0.4158235294117647
+Reputation,energía,0.5828666666666666
+1989,instrumental,0.0007042684210526315
+Fearless,instrumental,2.2700000000000003e-06
+Lover,instrumental,0.0007330572222222222
+Midnights,instrumental,0.018134064999999998
+Red,instrumental,0.001802364090909091
+Speak Now,instrumental,4.5934e-05
+The Tortured Poets Department,instrumental,0.00021417354838709678
+Taylor Swift,instrumental,5.38e-05
+Everore,instrumental,0.020617178235294117
+Folklore,instrumental,0.0003017123529411765
+Reputation,instrumental,4.3788e-05
+1989,directo,0.20321052631578945
+Fearless,directo,0.1598263157894737
+Lover,directo,0.11523333333333333
+Midnights,directo,0.150235
+Red,directo,0.12621363636363636
+Speak Now,directo,0.17250000000000001
+The Tortured Poets Department,directo,0.15004516129032258
+Taylor Swift,directo,0.16077333333333332
+Everore,directo,0.11358823529411766
+Folklore,directo,0.11046470588235294
+Reputation,directo,0.15215333333333333
+1989,volumen,-7.9241052631578945
+Fearless,volumen,-5.708210526315789
+Lover,volumen,-8.013277777777779
+Midnights,volumen,-10.588049999999999
+Red,volumen,-7.380045454545454
+Speak Now,volumen,-4.72625
+The Tortured Poets Department,volumen,-9.38125806451613
+Taylor Swift,volumen,-4.7316666666666665
+Everore,volumen,-9.781588235294118
+Folklore,volumen,-10.336058823529411
+Reputation,volumen,-7.6724
+1989,liricismo,0.17345263157894736
+Fearless,liricismo,0.031905263157894735
+Lover,liricismo,0.09911666666666667
+Midnights,liricismo,0.09207499999999999
+Red,liricismo,0.03657727272727273
+Speak Now,liricismo,0.03467
+The Tortured Poets Department,liricismo,0.05672903225806451
+Taylor Swift,liricismo,0.03268666666666666
+Everore,liricismo,0.05790588235294118
+Folklore,liricismo,0.03948235294117647
+Reputation,liricismo,0.09512000000000001
+1989,tempo,127.03305263157895
+Fearless,tempo,123.08926315789473
+Lover,tempo,119.97272222222222
+Midnights,tempo,119.74494999999999
+Red,tempo,110.29672727272727
+Speak Now,tempo,136.37560000000002
+The Tortured Poets Department,tempo,122.10209677419354
+Taylor Swift,tempo,126.0538
+Everore,tempo,120.70729411764705
+Folklore,tempo,119.88441176470589
+Reputation,tempo,127.54013333333334
+1989,positividad,0.4542105263157895
+Fearless,positividad,0.38005263157894736
+Lover,positividad,0.48144444444444445
+Midnights,positividad,0.28253
+Red,positividad,0.4681909090909091
+Speak Now,positividad,0.41695000000000004
+The Tortured Poets Department,positividad,0.3183548387096774
+Taylor Swift,positividad,0.4265333333333333
+Everore,positividad,0.4335294117647059
+Folklore,positividad,0.3613529411764706
+Reputation,positividad,0.2934
