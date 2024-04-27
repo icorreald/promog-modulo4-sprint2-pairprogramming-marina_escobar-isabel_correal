@@ -38,8 +38,8 @@
 36,American Music Awards,2018,"""Bad Blood"" (featuring Kendrick Lamar)",Favorite Adult Contemporary Artist,Canción
 37,American Music Awards,2018,"""Bad Blood"" (featuring Kendrick Lamar)",Favorite Pop/Rock Female Artist,Canción
 38,American Music Awards,2018,Reputation,Favorite Pop/Rock Female Artist,Álbum
-39,American Music Awards,2018,Reputation,Reputation Stadium Tour,Álbum
-40,American Music Awards,2019,Reputation,Reputation Stadium Tour,Álbum
+39,American Music Awards,2018,Reputation,Reputation Stadium Tour,Otros
+40,American Music Awards,2019,Reputation,Reputation Stadium Tour,Otros
 41,American Music Awards,2019,Reputation,Artist of the Year,Álbum
 42,American Music Awards,2019,Reputation,Favorite Pop/Rock Female Artist,Álbum
 43,American Music Awards,2019,Reputation,Favorite Adult Contemporary Artist,Álbum
@@ -53,10 +53,10 @@
 51,American Music Awards,2022,Evermore,Favorite Pop/Rock Female Artist,Álbum
 52,American Music Awards,2022,Evermore,Favorite Country Female Artist,Álbum
 53,American Music Awards,2022,Evermore,Favorite Pop/Rock Female Artist,Álbum
-54,American Music Awards,2022,Evermore,All Too Well: The Short Film,Álbum
+54,American Music Awards,2022,Evermore,All Too Well: The Short Film,Otros
 55,American Music Awards,2022,Evermore,Red (Taylor's Version),Álbum
 56,American Music Awards,2022,Evermore,Favorite Pop Album,Álbum
-57,Anthem Awards,2024,Vote.org + Taylor Swift on National Voter Registration Day,Human & Civil Rights – Awareness & Media Categories (Non Profit),Álbum
+57,Anthem Awards,2024,Vote.org + Taylor Swift on National Voter Registration Day,Human & Civil Rights – Awareness & Media Categories (Non Profit),Artista
 58,Apple Music Awards,2020,Swift,Songwriter of the Year,Artista
 59,Apple Music Awards,2023,Swift,Songwriter of the Year,Artista
 60,ARIA Music Awards,2019,Swift,Most Popular International Artist,Artista
@@ -105,7 +105,7 @@
 103,Billboard Music Awards,2023,Swift,Top Global 200 Artist,Artista
 104,Billboard Music Awards,2023,Swift,Top Global 200 (Excl. US) Artist,Artista
 105,Billboard Music Awards,2023,"""Anti-Hero""",Top Selling Song,Canción
-106,Billboard Live Music (Touring) Awards,2010,Fearless Tour,Top Package,Álbum
+106,Billboard Live Music (Touring) Awards,2010,Fearless Tour,Top Package,Otros
 107,Billboard Live Music (Touring) Awards,2011,Swift,Top Package,Artista
 108,Billboard Live Music (Touring) Awards,2013,Swift,Eventful Fans' Choice Award,Artista
 109,Billboard Live Music (Touring) Awards,2018,Swift,Top U.S. Tour,Artista
@@ -229,14 +229,14 @@
 227,CMT Music Awards,2011,"""Best Days of Your Life"" (with Kellie Pickler)",Female Video of the Year,Canción
 228,CMT Music Awards,2021,"""Red""",Female Video of the Year,Canción
 229,CMT Music Awards,2022,"""Love Story (Taylor's Version)""",Female Video of the Year,Canción
-230,Critics' Choice Documentary Awards,2020,Miss Americana,Most Compelling Living Subjects of a Documentary,Álbum
+230,Critics' Choice Documentary Awards,2020,Miss Americana,Most Compelling Living Subjects of a Documentary,Otros
 231,Dance Magazine Awards,2020,"""Me!"" (featuring Brendon Urie)",Best Music Video,Canción
 232,Danish Music Awards,2020,1989,International Album of the Year,Álbum
 233,Danish Music Awards,2023,1989,International Album of the Year,Álbum
-234,Do Something Awards,2011,Taylor Swift's Speak Now Tour to Benefit Tornado Victims,Do Something Concert,Álbum
+234,Do Something Awards,2011,Taylor Swift's Speak Now Tour to Benefit Tornado Victims,Do Something Concert,Otros
 235,Elle Style Awards,2015,Swift,Woman of the Year,Artista
-236,FiFi Awards,2013,Wonderstruck,Fragrance of the Year: Women's Luxe,Álbum
-237,FiFi Awards,2015,Wonderstruck,Fragrance of the Year: Women's Luxe,Álbum
+236,FiFi Awards,2013,Wonderstruck,Fragrance of the Year: Women's Luxe,Otros
+237,FiFi Awards,2015,Wonderstruck,Fragrance of the Year: Women's Luxe,Otros
 238,GLAAD Media Awards,2020,Swift,Vanguard Award,Artista
 239,Glamour Awards,2014,Swift,International Solo Artist,Artista
 240,Gold Derby Music Awards,2021,Swift,Artist of the Year,Artista
@@ -268,7 +268,7 @@
 266,Gold Derby Music Awards,2024,"""Anti-Hero""",Best Pop Song,Canción
 267,Gold Derby Music Awards,2024,"""Anti-Hero""",Best Music Video,Canción
 268,Golden Boot Awards,2019,"""Babe"" (with Sugarland)",Collaboration of the Year,Canción
-269,Gracie Awards,2021,Folklore: The Long Pond Studio Sessions,Grand Award for Special or Variety,Álbum
+269,Gracie Awards,2021,Folklore: The Long Pond Studio Sessions,Grand Award for Special or Variety,Otros
 270,Grammy Awards,2010,Swift,Best New Artist,Artista
 271,Grammy Awards,2010,Swift,Best Country Album,Artista
 272,Grammy Awards,2010,"""White Horse""",Best Female Pop Vocal Performance,Canción
@@ -280,10 +280,10 @@
 278,Grammy Awards,2016,"""Highway Don't Care"" (with Tim McGraw and Keith Urban)",Best Pop Vocal Album,Canción
 279,Grammy Awards,2016,"""Bad Blood"" (featuring Kendrick Lamar)",Best Music Video,Canción
 280,Grammy Awards,2021,Folklore,Album of the Year,Álbum
-281,Grammy Awards,2023,"""Carolina""",All Too Well: The Short Film,Canción
+281,Grammy Awards,2023,"""Carolina""",All Too Well: The Short Film,Otros
 282,Grammy Awards,2024,Midnights,Best Pop Solo Performance,Álbum
 283,Grammy Awards,2024,Midnights,Best Pop Vocal Album,Álbum
-284,Grand Remi Awards (WorldFest-Houston International Film Festival),2015,Shake It Off,Best Music Video,Álbum
+284,Grand Remi Awards (WorldFest-Houston International Film Festival),2015,Shake It Off,Best Music Video,Otros
 285,Hit FM Music Awards,2023,Swift,Female Artist of the Year,Artista
 286,Hit FM Music Awards,2023,"""The Joker and the Queen"" (with Ed Sheeran)",Female Artist of the Year,Canción
 287,Hit FM Music Awards,2023,"""Anti-Hero""",Female Artist of the Year,Canción
@@ -292,7 +292,7 @@
 290,Hito Music Awards,2016,"""We Are Never Ever Getting Back Together""",Best Western Song,Canción
 291,Hito Music Awards,2018,"""We Are Never Ever Getting Back Together""",Best Western Song,Canción
 292,Hito Music Awards,2020,"""We Are Never Ever Getting Back Together""",Best Western Song,Canción
-293,Hollywood Critics Association Film Awards,2023,All Too Well: The Short Film,Best Short Film,Álbum
+293,Hollywood Critics Association Film Awards,2023,All Too Well: The Short Film,Best Short Film,Otros
 294,IFPI Awards,2015,Swift,Global Recording Artist of 2014,Artista
 295,IFPI Awards,2020,Swift,Global Recording Artist of 2014,Artista
 296,IFPI Awards,2023,Swift,Global Recording Artist of 2014,Artista
@@ -374,7 +374,7 @@
 372,MTV Video Music Awards,2023,Swift,Best Visual Effects,Artista
 373,MTV Video Music Awards,2023,Swift,Show of the Summer,Artista
 374,MTV Video Music Awards,2023,Midnights,Show of the Summer,Álbum
-375,MTV Movie & TV Awards,2023,Valentine's Day,Best Kiss (with Taylor Lautner),Álbum
+375,MTV Movie & TV Awards,2023,Valentine's Day,Best Kiss (with Taylor Lautner),Otros
 376,MTV Video Music Awards Japan,2019,"""Mine""",Best Karaoke Video,Canción
 377,MTV Millennial Awards,2013,"""We Are Never Ever Getting Back Together""",Catchiest Hit of the Year,Canción
 378,MTV Millennial Awards,2017,"""Blank Space""",Catchiest Hit of the Year,Canción
@@ -386,13 +386,13 @@
 384,Myx Music Awards,2010,"""Love Story""",Favorite International Video,Canción
 385,Myx Music Awards,2015,"""Love Story""",Favorite International Video,Canción
 386,Myx Music Awards,2016,"""Love Story""",Favorite International Video,Canción
-387,Nashville Songwriter Awards,2007,Swift[c],Songwriter-Artist of the Year,Álbum
-388,Nashville Songwriter Awards,2009,Swift[c],Songwriter-Artist of the Year,Álbum
-389,Nashville Songwriter Awards,2010,Swift[c],Songwriter-Artist of the Year,Álbum
-390,Nashville Songwriter Awards,2011,Swift[c],Songwriter-Artist of the Year,Álbum
-391,Nashville Songwriter Awards,2012,Swift[c],Songwriter-Artist of the Year,Álbum
-392,Nashville Songwriter Awards,2013,Swift[c],Songwriter-Artist of the Year,Álbum
-393,Nashville Songwriter Awards,2015,Swift[c],Songwriter-Artist of the Year,Álbum
+387,Nashville Songwriter Awards,2007,Swift[c],Songwriter-Artist of the Year,Artista
+388,Nashville Songwriter Awards,2009,Swift[c],Songwriter-Artist of the Year,Artista
+389,Nashville Songwriter Awards,2010,Swift[c],Songwriter-Artist of the Year,Artista
+390,Nashville Songwriter Awards,2011,Swift[c],Songwriter-Artist of the Year,Artista
+391,Nashville Songwriter Awards,2012,Swift[c],Songwriter-Artist of the Year,Artista
+392,Nashville Songwriter Awards,2013,Swift[c],Songwriter-Artist of the Year,Artista
+393,Nashville Songwriter Awards,2015,Swift[c],Songwriter-Artist of the Year,Artista
 394,Nashville Songwriter Awards,2015,"""Shake It Off""",Songwriter-Artist of the Year,Canción
 395,Nashville Songwriter Awards,2017,"""Shake It Off""",Songwriter-Artist of the Year,Canción
 396,Nashville Songwriter Awards,2020,"""Shake It Off""",Songwriter-Artist of the Year,Canción
@@ -444,12 +444,12 @@
 442,People's Choice Awards,2024,Swift,Pop Artist of the Year,Artista
 443,People's Choice Awards,2024,Swift,Social Celebrity of the Year,Artista
 444,People's Choice Awards,2024,Swift,The Eras Tour,Artista
-445,Pollstar Awards,2019,Reputation Stadium Tour,Best Pop Tour,Álbum
-446,Pollstar Awards,2024,Reputation Stadium Tour,Pop Touring Artist of the Decade,Álbum
-447,Pollstar Awards,2024,Reputation Stadium Tour,AMC x Taylor Swift: The Eras Tour Theatrical Exhibition,Álbum
+445,Pollstar Awards,2019,Reputation Stadium Tour,Best Pop Tour,Otros
+446,Pollstar Awards,2024,Reputation Stadium Tour,Pop Touring Artist of the Decade,Otros
+447,Pollstar Awards,2024,Reputation Stadium Tour,AMC x Taylor Swift: The Eras Tour Theatrical Exhibition,Otros
 448,Popstar! Poptastic Awards,2010,Swift,Favorite Female Singer,Artista
 449,Premios MUSA,2023,Swift,International Anglophone Artist of the Year,Artista
-450,Primetime Emmy Awards,2015,AMEX Unstaged: Taylor Swift Experience,Outstanding Creative Achievement in Interactive Media — Original Interactive Program,Álbum
+450,Primetime Emmy Awards,2015,AMEX Unstaged: Taylor Swift Experience,Outstanding Creative Achievement in Interactive Media — Original Interactive Program,Otros
 451,Q Awards,2018,Swift,Best Solo Artist,Artista
 452,Radio Disney Music Awards,2013,"""I Knew You Were Trouble""",Song of the Year,Canción
 453,Radio Disney Music Awards,2013,"""We Are Never Ever Getting Back Together""",Song of the Year,Canción
@@ -502,12 +502,12 @@
 500,Teen Choice Awards,2012,"""Sparks Fly""",The Lorax,Canción
 501,Teen Choice Awards,2013,"""Sparks Fly""",Choice Female Country Artist,Canción
 502,Teen Choice Awards,2013,"""We Are Never Ever Getting Back Together""",Choice Smile,Canción
-503,Teen Choice Awards,2014,"""Red Tour""",Choice Female Country Artist,Canción
-504,Teen Choice Awards,2015,"""Red Tour""",Choice Summer Music Star: Female,Canción
+503,Teen Choice Awards,2014,"""Red Tour""",Choice Female Country Artist,Otros
+504,Teen Choice Awards,2015,"""Red Tour""",Choice Summer Music Star: Female,Otros
 505,Teen Choice Awards,2015,"""Red Tour""",Choice Twit,Canción
 506,Teen Choice Awards,2015,"""Bad Blood"" (featuring Kendrick Lamar)",Choice Twit,Canción
 507,Teen Choice Awards,2015,"""Bad Blood"" (featuring Kendrick Lamar)",Choice Music Collaboration,Canción
-508,Teen Choice Awards,2019,Swift,Reputation Stadium Tour,Artista
+508,Teen Choice Awards,2019,Swift,Reputation Stadium Tour,Otros
 509,Telehit Awards,2013,Red,Best Female Pop Album,Álbum
 510,Telehit Awards,2015,Red,Best Female Pop Album,Álbum
 511,Telehit Awards,2015,"""Bad Blood"" (featuring Kendrick Lamar)",Best Female Pop Album,Canción
