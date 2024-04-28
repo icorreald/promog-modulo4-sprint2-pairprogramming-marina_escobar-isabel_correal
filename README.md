@@ -20,7 +20,7 @@ El archivo `taylor_swift.pbix` es la presentación y síntesis de todos los dato
 
 - **Música**: Analiza tanto el ritmo musical como la letra de las canciones.
 
-- **Social**: Repasa aquellas interacciones con los personajes más relevantes del entorno de Taylor Swift, así como muestra una visión general de su actividad en la red social X (anteriormente Twitter)
+- **Social**: Repasa aquellas interacciones con los personajes más relevantes del entorno de Taylor Swift, así como muestra una visión general de su actividad en la red social X (anteriormente Twitter).
 
 ## Tecnologías empleadas
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)
