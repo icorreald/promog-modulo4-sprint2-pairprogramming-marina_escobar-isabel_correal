@@ -35,10 +35,10 @@ El archivo `taylor_swift.pbix` es la presentación y síntesis de todos los dato
 - Asegúrate de tener instaladas las bibliotecas específicas que se mencionan en el archivo `main.py`
 
 **Si deseas llevar a cabo de nuevo el proceso de extracción de datos:**
-- Ejecuta el archivo [main.py](https://github.com/Adalab/bda-modulo-3-evaluacion-final-marinaescobar/blob/main/main.py) desde VS Code o tu programa de editor de código de preferencia 
+- Ejecuta el archivo [main.py](https://github.com/icorreald/promog-modulo4-sprint2-pairprogramming-marina_escobar-isabel_correal/blob/main/main.py) desde VS Code o tu programa de editor de código de preferencia 
 
 **Si deseas poder ver la presentación:**
-- Abre el archivo [taylor_swift.pbix](https://github.com/Adalab/bda-modulo-3-evaluacion-final-marinaescobar/blob/main/main.py) desde Power BI
+- Abre el archivo [taylor_swift.pbix](https://github.com/icorreald/promog-modulo4-sprint2-pairprogramming-marina_escobar-isabel_correal/blob/main/taylor_swift.pbix) desde Power BI
 
 
 ## Autoras
